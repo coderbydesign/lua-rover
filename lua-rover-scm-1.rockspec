@@ -10,7 +10,7 @@ description = {
 }
 dependencies = {
    "argparse ~> 0.5.0",
-   "luarocks ~> 3.7.0"
+   "luarocks ~> 3.6.0"
 }
 build = {
    type = "builtin",
